@@ -1,0 +1,7 @@
+body {
+    background-color: #efefef;
+}
+
+.ui.inverted.top.fixed.menu {
+    background-image: linear-gradient(135deg, rgba(36, 36, 36, 0.993) 0%, rgba(36, 36, 36, 0.726) 69%, rgb(58, 58, 58) 89%);
+}
